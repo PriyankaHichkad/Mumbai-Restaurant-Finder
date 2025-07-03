@@ -20,7 +20,7 @@ As a food enthusiast who often searches for the perfect late-night bite, a weeke
 
 ## Dataset Description
 
-The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/sleepyowl007/zomato-mumbai-dataset/data) (search for `zomato_mumbai_dataset.csv`) and includes the following fields:
+The dataset is sourced from [Kaggle](https://www.kaggle.com/) : [https://www.kaggle.com/datasets/sleepyowl007/zomato-mumbai-dataset/data](https://www.kaggle.com/datasets/sleepyowl007/zomato-mumbai-dataset/data) (search for `zomato_mumbai_dataset.csv`) and includes the following fields:
 - Restaurant name
 - Address and locality
 - Cuisines provided
@@ -75,3 +75,5 @@ After selecting your location and preferred cuisine type:
 ---
 
 ## 📷 Dashboard Screenshots
+
+![Dashboard Overview](https://github.com/PriyankaHichkad/Mumbai-Restaurant-Finder/blob/main/Dashboard%20Screenshot.png)
